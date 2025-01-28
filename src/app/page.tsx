@@ -28,6 +28,41 @@ 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
+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
+22Ozb2M=
+=U+F6
 -----END PGP PUBLIC KEY BLOCK-----`;
 
   const copyToClipboard = async () => {
@@ -44,7 +79,7 @@ AgQWAgMBAh4HAheAAAoJEDHqJ64U6CA4/XYP/jke3+uq/o/glfbRBwY4UXRgG64L
     const url = window.URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'public-key.asc';
+    a.download = 'niklas-bitcircuit-public-key.asc';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -209,10 +244,10 @@ AgQWAgMBAh4HAheAAAoJEDHqJ64U6CA4/XYP/jke3+uq/o/glfbRBwY4UXRgG64L
                   <FaLinkedin className="mr-2 text-xl" /> LinkedIn Profile
                 </a>
                 <a
-                  href="mailto:contact@bitcircuit.eu"
+                  href="mailto:niklas@bitcircuit.eu"
                   className="flex items-center text-cyan-400 hover:text-cyan-300 transition-colors p-3 rounded-lg border border-cyan-500/30 hover:border-cyan-500"
                 >
-                  <FaEnvelope className="mr-2 text-xl" /> contact@bitcircuit.eu
+                  <FaEnvelope className="mr-2 text-xl" /> niklas@bitcircuit.eu
                 </a>
               </div>
             </div>
